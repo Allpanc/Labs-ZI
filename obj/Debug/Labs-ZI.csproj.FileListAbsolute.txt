@@ -1,0 +1,7 @@
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Защита информации\Лабораторные работы\Labs-ZI\bin\Debug\Labs-ZI.exe.config
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Защита информации\Лабораторные работы\Labs-ZI\bin\Debug\Labs-ZI.exe
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Защита информации\Лабораторные работы\Labs-ZI\bin\Debug\Labs-ZI.pdb
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Защита информации\Лабораторные работы\Labs-ZI\obj\Debug\Labs-ZI.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Защита информации\Лабораторные работы\Labs-ZI\obj\Debug\Labs-ZI.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Защита информации\Лабораторные работы\Labs-ZI\obj\Debug\Labs-ZI.exe
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Защита информации\Лабораторные работы\Labs-ZI\obj\Debug\Labs-ZI.pdb
