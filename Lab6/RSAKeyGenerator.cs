@@ -29,8 +29,8 @@ namespace Labs_ZI.Lab6
             Tuple<int, int> secretKey = new Tuple<int, int>(d, n);
 
             //Console.WriteLine("Euler func = " + eulerFunc);
-            //Console.WriteLine("Open key: {" + openKey.Item1 + " " + openKey.Item2 + "}");
-            //Console.WriteLine("Secret key: {" + secretKey.Item1 + " " + secretKey.Item2 + "}");
+            Console.WriteLine("Open key: {" + openKey.Item1 + " " + openKey.Item2 + "}");
+            Console.WriteLine("Secret key: {" + secretKey.Item1 + " " + secretKey.Item2 + "}");
 
 
             return new Tuple<Tuple<int, int>, Tuple<int, int>>(openKey, secretKey);

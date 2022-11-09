@@ -2,8 +2,8 @@
 using Labs_ZI.Lab1;
 using Labs_ZI.Lab2;
 using Labs_ZI.Lab4;
+using Labs_ZI.Lab5;
 using Labs_ZI.Lab6;
-using Labs_ZI.Utils;
 
 namespace Labs_ZI
 {
@@ -74,12 +74,27 @@ namespace Labs_ZI
 
         static void Lab5()
         {
+            string data = "thistext";
+            string key = "11112222333344445555666677778888";
 
+            Console.WriteLine("Plain text = " + data + " , key = " + key);
+
+            AES_Encoder encoder = new AES_Encoder();
+            string encodingResult = encoder.Encode(data, key);
+
+            Console.WriteLine("Encoding result:");
+            Console.WriteLine(encodingResult + "\n");
+
+            AES_Decoder decoder = new AES_Decoder();
+            string decodingResult = decoder.Decode(encodingResult, key);
+
+            Console.WriteLine("Decoding result:");
+            Console.WriteLine(decodingResult + "\n");
         }
 
         static void Lab6()
         {
-            string plainText = "Hello World";
+            string plainText = "secret";
             Console.WriteLine("Plain " + plainText);
             RSAKeyGenerator keyGenerator = new RSAKeyGenerator();
 
